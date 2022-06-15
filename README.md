@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1 align="center">Hyde-Developer :wave:</h1>
 
-<!--
-**Hyde-Developer/Hyde-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyde-Developer&theme=codeSTACKr&show_icons=true">
 
-Here are some ideas to get you started:
+```python
+class Hyde():
+    def __init__(self) -> None:
+        self.name = 'Hyde'
+        self.link = 'discord.gg/QHgGkwa5Be'
+        self.about = 'Développeur en Python'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __gt__(self, other) -> bool: return True
+```
+
+<img align="left" src="https://www.pikpng.com/pngl/b/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" width="100">
+
+**Salut, je suis Hyde. Je suis un développeur en python et je veux apprendre d'autre language ! Si tu veux jouer ou coder avec moi, [contacte moi sur Discord](https://discord.gg/QHgGkwa5Be).**
+
+```java
+class Hyde {
+    public Hyde() {
+        this.name = "Hyde";
+        this.link = "discord.gg/QHgGkwa5Be";
+        this.about = "Développeur en Python";
+    }
+    public String name;
+    public String link;
+    public String about;
+
+    public boolean compareTo(BlueRed other) {
+        return true;
+    }
+}
+```
+
+<h1 align="center">:crossed_swords: STATS :shield:</h1>
+<div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Hyde-Developer&theme=github-dark-blue&hide_border=true">
+</div>
+
+<h1 align="center">:pushpin: Projet :pushpin:</h1>
+<img align="center" src="https://gh-card.dev/repos/Hyde-Developer/Portofolio.svg?fullname">
