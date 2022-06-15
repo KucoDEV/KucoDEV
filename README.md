@@ -51,8 +51,8 @@ class Hyde {
 
 <h1 align="center">:pushpin: Projet :pushpin:</h1>
 <img align="center" src="https://gh-card.dev/repos/Hyde-Developer/Hyden-Software.svg?fullname">
-<img align="center" src="https://gh-card.dev/repos/Hyde-Developer/Portofolio.svg?fullname">
 <img align="center" src="https://gh-card.dev/repos/Hyde-Developer/Simple-Auth-System.svg?fullname">
+<img align="center" src="https://gh-card.dev/repos/Hyde-Developer/GitHub-View-Bot.svg?fullname">
 
 <h1 align="center">🎈 SITE 🎈</h1>
 <div align="center">
