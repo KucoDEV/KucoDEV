@@ -36,6 +36,7 @@ class Hyde {
 <h1 align="center">:crossed_swords: STATS :shield:</h1>
 <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Hyde-Developer&theme=github-dark-blue&hide_border=true">
+    <img src="https://profile-counter.glitch.me/billythegoat356/count.svg" />
 </div>
 
 <h1 align="center">:pushpin: Projet :pushpin:</h1>
