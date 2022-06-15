@@ -27,7 +27,7 @@ class Hyde {
     public String link;
     public String about;
 
-    public boolean compareTo(BlueRed other) {
+    public boolean compareTo(Hyde other) {
         return true;
     }
 }
