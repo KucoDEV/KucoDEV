@@ -1,6 +1,6 @@
 <h1 align="center">Hyde-Developer :wave:</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyde-Developer&theme=codeSTACKr&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyde-Developer&theme=codeSTACKr&show_icons=false">
 
 ```python
 class Hyde():
