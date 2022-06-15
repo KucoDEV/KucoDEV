@@ -50,5 +50,6 @@ class Hyde {
 </div>
 
 <h1 align="center">:pushpin: Projet :pushpin:</h1>
-<img align="center" src="https://gh-card.dev/repos/Hyde-Developer/Hyden-Software.svg?fullname">
+<img align="left" src="https://gh-card.dev/repos/Hyde-Developer/Hyden-Software.svg?fullname">
 <img align="center" src="https://gh-card.dev/repos/Hyde-Developer/Portofolio.svg?fullname">
+<img align="right" src="https://gh-card.dev/repos/Hyde-Developer/Simple-Auth-System.svg?fullname">
