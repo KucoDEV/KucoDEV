@@ -1,6 +1,8 @@
 <h1 align="center">Hyde-Developer :wave:</h1>
 
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hyde-Developer&layout=compact&langs_count=8&theme=react&locale=fr"/>
+<div aign="center">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hyde-Developer&layout=compact&langs_count=8&theme=react&locale=fr"/>
+</div>
 
 ```python
 class Hyde():
