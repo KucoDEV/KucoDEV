@@ -40,9 +40,15 @@ class Hyde {
 <br>
 <br>
 <div align="center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hyde-Developer&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+</div>
+<br>
+<br>
+<div align="center">
     <p align="center">👀 &nbsp;Visiteurs</p>
-    <img src="https://profile-counter.glitch.me/billythegoat356/count.svg" />
+    <img src="https://profile-counter.glitch.me/Hyde-Developer/count.svg" />
 </div>
 
 <h1 align="center">:pushpin: Projet :pushpin:</h1>
+<img align="center" src="https://gh-card.dev/repos/Hyde-Developer/Hyden-Software.svg?fullname">
 <img align="center" src="https://gh-card.dev/repos/Hyde-Developer/Portofolio.svg?fullname">
