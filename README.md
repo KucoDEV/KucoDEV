@@ -46,7 +46,7 @@ class Era {
 <br>
 <div align="center">
     <p align="center">👀 &nbsp;Visiteurs</p>
-    <img src="https://profile-counter.glitch.me/Hyde-Developer/count.svg" />
+    <img src="https://profile-counter.glitch.me/Era-Developer/count.svg" />
 </div>
 
 <h1 align="center">:pushpin: Projet :pushpin:</h1>
