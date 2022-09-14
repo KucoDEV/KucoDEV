@@ -14,7 +14,7 @@ class Era():
 
 <img align="left" src="https://www.pikpng.com/pngl/b/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" width="100">
 
-**Salut, je suis Era. Je suis un développeur en python et je veux apprendre d'autre language ! Si tu veux jouer ou coder avec moi, [contacte moi sur Discord](https://discord.gg/QHgGkwa5Be).**
+**Salut, je suis Era. Je suis un développeur en python et je veux apprendre d'autre language ! Si tu veux jouer ou coder avec moi, [contacte moi sur Discord](https://dsc.gg/eracorp).**
 
 ```java
 class Era {
@@ -35,12 +35,12 @@ class Era {
 
 <h1 align="center">:crossed_swords: STATS :shield:</h1>
 <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Era-Developer&theme=github-dark-blue&hide_border=true">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Era-Developer&theme=radical&hide_border=true">
 </div>
 <br>
 <br>
 <div align="center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Era-Developer&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Era-Developer&show_icons=true&theme=radical&include_all_commits=true&locale=fr"/>
 </div>
 <br>
 <br>
