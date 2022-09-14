@@ -1,6 +1,6 @@
 <h1 align="center">Era :wave:</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Era-Developer&theme=codeSTACKr&show_icons=false">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Era-Developer&theme=radical&show_icons=false">
 
 ```python
 class Era():
