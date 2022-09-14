@@ -56,6 +56,6 @@ class Era {
 
 <h1 align="center">🎈 SITE 🎈</h1>
 <div align="center">
-    <p align="center">**https://bio.eradev.repl.co**</p>
-    <p align="center">**https://link.eradev.repl.co**</p>
+    <p align="center">https://bio.eradev.repl.co</p>
+    <p align="center">https://link.eradev.repl.co</p>
 </div>
