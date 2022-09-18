@@ -1,33 +1,33 @@
-<h1 align="center">Era :wave:</h1>
+<h1 align="center">EraCorp | EC :wave:</h1>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Era-Developer&theme=radical&show_icons=false">
 
 ```python
-class Era():
+class EraCorp():
     def __init__(self) -> None:
-        self.name = 'Era'
-        self.link = 'discord.gg/QHgGkwa5Be'
-        self.about = 'Développeur en Python'
+        self.name = 'EraCorp'
+        self.link = 'dsc.gg/eracorp'
+        self.about = 'Valorant Structure'
 
     def __gt__(self, other) -> bool: return True
 ```
 
 <img align="left" src="https://www.pikpng.com/pngl/b/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" width="100">
 
-**Salut, je suis Era. Je suis un développeur en python et je veux apprendre d'autre language ! Si tu veux jouer ou coder avec moi, [contacte moi sur Discord](https://dsc.gg/eracorp).**
+**Salut, La EraCorp A.K.A. EC est un clan français sur le jeu de FPS nommé Valorant ! Notre [Discord](https://dsc.gg/eracorp).**
 
 ```java
-class Era {
-    public Era() {
-        this.name = "Era";
-        this.link = "discord.gg/QHgGkwa5Be";
-        this.about = "Développeur en Python";
+class EraCorp {
+    public EraCorp() {
+        this.name = "EraCorp";
+        this.link = "dsc.gg/eracorp";
+        this.about = "Valorant Structure";
     }
     public String name;
     public String link;
     public String about;
 
-    public boolean compareTo(Era other) {
+    public boolean compareTo(EraCorp other) {
         return true;
     }
 }
