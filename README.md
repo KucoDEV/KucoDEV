@@ -45,7 +45,7 @@ class Era {
 <br>
 <br>
 <div align="center">
-    <p align="center">👀 &nbsp;Visiteurs</p>
+    <h1 align="center">👀 &nbsp;Visiteurs</h1>
     <img src="https://profile-counter.glitch.me/Era-Developer/count.svg" />
 </div>
 
