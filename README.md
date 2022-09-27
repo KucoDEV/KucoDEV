@@ -50,8 +50,8 @@ class EraCorp {
 </div>
 
 <h1 align="center">:pushpin: Projet :pushpin:</h1>
+<img align="center" src="https://gh-card.dev/repos/Era-Developer/ValorShop.svg?fullname">
 <img align="center" src="https://gh-card.dev/repos/Era-Developer/Hyden.svg?fullname">
-<img align="center" src="https://gh-card.dev/repos/Era-Developer/Hades.svg?fullname">
 <img align="center" src="https://gh-card.dev/repos/Era-Developer/Sentinels.svg?fullname">
 
 <h1 align="center">🎈 SITE 🎈</h1>
