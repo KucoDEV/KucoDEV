@@ -7,21 +7,21 @@ class EraCorp():
     def __init__(self) -> None:
         self.name = 'EraCorp'
         self.link = 'dsc.gg/eracorp'
-        self.about = 'Valorant Structure'
+        self.about = 'Developer Full Stack'
 
     def __gt__(self, other) -> bool: return True
 ```
 
 <img align="left" src="https://www.pikpng.com/pngl/b/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" width="100">
 
-**Salut, La EraCorp A.K.A. EC est un clan français sur le jeu de FPS nommé Valorant ! Notre [Discord](https://dsc.gg/eracorp).**
+**Salut, La Era-Developer est un fondation créer par la EraCorp. Notre [Discord](https://dsc.gg/eracorp).**
 
 ```java
 class EraCorp {
     public EraCorp() {
         this.name = "EraCorp";
         this.link = "dsc.gg/eracorp";
-        this.about = "Valorant Structure";
+        this.about = "Developer Full Stack";
     }
     public String name;
     public String link;
