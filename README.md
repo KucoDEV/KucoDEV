@@ -47,9 +47,9 @@ class Kuco {
 </div>
 
 <h1 align="center">:pushpin: Projet :pushpin:</h1>
+<img align="center" src="https://gh-card.dev/repos/KucoDEV/KeyWins.svg?fullname">
+<img align="center" src="https://gh-card.dev/repos/KucoDEV/uav-app.svg?fullname">
 <img align="center" src="https://gh-card.dev/repos/KucoDEV/ValorShop.svg?fullname">
-<img align="center" src="https://gh-card.dev/repos/KucoDEV/Hyden.svg?fullname">
-<img align="center" src="https://gh-card.dev/repos/KucoDEV/Sentinels.svg?fullname">
 
 <h1 align="center">🎈 SITE 🎈</h1>
 <div align="center">
