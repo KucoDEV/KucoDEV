@@ -31,9 +31,6 @@ class Kuco {
 ```
 
 <h1 align="center">:crossed_swords: STATS :shield:</h1>
-<div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=KucoDEV&theme=radical&hide_border=true">
-</div>
 <br>
 <br>
 <div align="center">
