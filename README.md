@@ -4,7 +4,7 @@
 class Kuco():
     def __init__(self) -> None:
         self.name = 'Kuco'
-        self.link = 'None'
+        self.link = 'https://www.keyscapes.fr'
         self.about = 'Developer'
 
     def __gt__(self, other) -> bool: return True
@@ -17,7 +17,7 @@ class Kuco():
 class Kuco {
     public Kuco() {
         this.name = "Kuco";
-        this.link = "None";
+        this.link = "https://www.keyscapes.fr";
         this.about = "Developer";
     }
     public String name;
@@ -32,6 +32,9 @@ class Kuco {
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<div align="center">
+    <img src="https://profile-counter.glitch.me/KucoDEV/count.svg" /><br><br>
+</div>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -57,25 +60,20 @@ class Kuco {
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/KucoDEV/Gestion-pdf" title="Gestion PDF"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=Gestion-pdf&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/KucoDEV/Quizlet-Cheat" title="Quizlet Cheat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=Quizlet-Cheat&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/KucoDEV/KeyWins" title="KeyWins"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=KeyWins&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/KucoDEV/Boredom" title="Boredom"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=Boredom&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/KucoDEV/Ressources" title="Ressources"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=Ressources&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/KucoDEV/TKinter-Designer" title="TKinter Designer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=TKinter-Designer&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/KucoDEV?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-<div align="center">
-    <h1 align="center">👀 &nbsp;Visiteurs</h1>
-    <img src="https://profile-counter.glitch.me/KucoDEV/count.svg" />
-</div>
