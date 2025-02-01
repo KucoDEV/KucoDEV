@@ -1,11 +1,11 @@
-# 👋 Salut, moi c'est Kuco
+# 👋 Salut, moi c'est Mathéo
 
 ## 🚀 Qui suis-je ?
 
 Je suis un **développeur passionné** par le code et la création d'outils innovants. J'adore apprendre de nouvelles technologies et repousser les limites de mes compétences.
 
 - 💻 **Langages & Technologies** : Python, Java, JavaScript, C/C++/C#, HTML/CSS, SQL
-- 🔗 **Projet actuel** : [Oratis](https://www.oratis.fr)
+- 🔗 **Projet actuel** : [OratisAI](https://github.com/KucoDEV/OratisAI), [MyBox](https://github.com/KucoDEV/MyBox)
 - 🎯 **Centres d'intérêt** : Développement web, applications
 
 ## 🏆 Mes Stats
@@ -36,8 +36,8 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
   <a href="https://github.com/KucoDEV/Chess-Stats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=Chess-Stats&theme=dark" />
   </a>
-  <a href="https://github.com/KucoDEV/TKinter-Designer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=TKinter-Designer&theme=dark" />
+  <a href="https://github.com/KucoDEV/OratisAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=OratisAI&theme=dark" />
   </a>    
 </div>
 
