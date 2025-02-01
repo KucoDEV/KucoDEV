@@ -1,28 +1,38 @@
 # 👋 Salut, moi c'est Mathéo
 
+![GitHub Profile Banner](https://github.com/KucoDEV/KucoDEV/blob/main/banner.png)
+
 ## 🚀 Qui suis-je ?
 
 Je suis un **développeur passionné** par le code et la création d'outils innovants. J'adore apprendre de nouvelles technologies et repousser les limites de mes compétences.
 
-- 💻 **Langages & Technologies** : Python, Java, JavaScript, C/C++/C#, HTML/CSS, SQL
-- 🔗 **Projet actuel** : [OratisAI](https://github.com/KucoDEV/OratisAI), [MyBox](https://github.com/KucoDEV/MyBox)
-- 🎯 **Centres d'intérêt** : Développement web, applications
+🔹 **Langages & Technologies** : `Python`, `Java`, `JavaScript`, `C/C++/C#`, `HTML/CSS`, `SQL`
 
-## 🏆 Mes Stats
+🔹 **Projet actuel** : [OratisAI](https://github.com/KucoDEV/OratisAI), [MyBox](https://github.com/KucoDEV/MyBox)
+
+🔹 **Centres d'intérêt** : Développement web, applications, intelligence artificielle
+
+---
+
+## 📊 Mes Stats
 
 <div align="center">
     <img src="https://profile-counter.glitch.me/KucoDEV/count.svg" />
 </div>
-<p align=center>
-  <div align=center>
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=KucoDEV&data=followers,repositories,stars,commits&theme=darkmode" /><br>
-  </div>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KucoDEV&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=KucoDEV&data=followers,repositories,stars,commits&theme=darkmode" />
 </p>
+
+<p align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KucoDEV&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KucoDEV&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 🌟 Projets en avant
 
@@ -41,7 +51,9 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
   </a>    
 </div>
 
-## 🔧 Moi en quelque ligne de code
+---
+
+## 🔧 Moi en quelques lignes de code
 
 ```python
 class Kuco():
@@ -70,5 +82,14 @@ class Kuco {
     }
 }
 ```
+
+---
+
+## 📫 Contact
+
+💼 [Portfolio](https://www.oratis.fr)   | *Bientôt...*   
+📩 **Mail** : Matheo.PICHOT-MOISE@etu.uca.fr
+
+---
 
 <div align="center"><h3>📌 Toujours en quête de nouveaux projets ! 🚀</h3></div>
