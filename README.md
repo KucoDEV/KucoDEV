@@ -43,14 +43,14 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
   <a href="https://github.com/OratisDEV/OratisAI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OratisDEV&repo=OratisAI&theme=dark" />
   </a> 
-  <a href="https://github.com/KucoDEV/kucodev.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=kucodev.github.io&theme=dark" />
+  <a href="https://github.com/KucoDEV/BUT-Projets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=BUT-Projets&theme=dark" />
   </a> 
   <a href="https://github.com/KucoDEV/Chess-Stats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=Chess-Stats&theme=dark" />
   </a>  
-  <a href="https://github.com/KucoDEV/BUT-Projets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=BUT-Projets&theme=dark" />
+  <a href="https://github.com/KucoDEV/kucodev.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=kucodev.github.io&theme=dark" />
   </a> 
   <a href="https://github.com/OratisDEV/oratisdev.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OratisDEV&repo=oratisdev.github.io&theme=dark" />
