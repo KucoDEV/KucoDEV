@@ -46,8 +46,8 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
   <a href="https://github.com/KucoDEV/Chess-Stats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=Chess-Stats&theme=dark" />
   </a>
-  <a href="https://github.com/KucoDEV/OratisAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=OratisAI&theme=dark" />
+  <a href="https://github.com/OratisDEV/OratisAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OratisDEV&repo=OratisAI&theme=dark" />
   </a>    
 </div>
 
