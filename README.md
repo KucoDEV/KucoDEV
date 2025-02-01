@@ -87,7 +87,7 @@ class Kuco {
 
 ## 📫 Contact
 
-💼 [Portfolio](https://www.oratis.fr)   | *Bientôt...*   
+💼 [Portfolio](https://kucodev.github.io)   
 📩 **Mail** : Matheo.PICHOT-MOISE@etu.uca.fr
 
 ---
