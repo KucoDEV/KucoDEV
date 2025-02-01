@@ -24,6 +24,23 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
   </div>
 </p>
 
+## 🌟 Projets en avant
+
+<div align="center">
+  <a href="https://github.com/KucoDEV/MyBox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=MyBox&theme=dark" />
+  </a>
+  <a href="https://github.com/KucoDEV/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=Portfolio&theme=dark" />
+  </a>
+  <a href="https://github.com/KucoDEV/Chess-Stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=Chess-Stats&theme=dark" />
+  </a>
+  <a href="https://github.com/KucoDEV/TKinter-Designer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=TKinter-Designer&theme=dark" />
+  </a>    
+</div>
+
 ## 🔧 Moi en quelque ligne de code
 
 ```python
