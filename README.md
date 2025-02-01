@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Mathéo
 
-![GitHub Profile Banner](https://github.com/KucoDEV/KucoDEV/blob/main/banner.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=50&lines=Bienvenue+sur+mon+profil!+🚀;Développeur+passionné+par+le+code!)](https://git.io/typing-svg)
 
 ## 🚀 Qui suis-je ?
 
