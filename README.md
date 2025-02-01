@@ -1,37 +1,15 @@
-<h1 align="center">Kuco :wave:</h1>
+# 👋 Salut, moi c'est Kuco
 
-```python
-class Kuco():
-    def __init__(self) -> None:
-        self.name = 'Kuco'
-        self.link = 'https://www.keyscapes.fr'
-        self.about = 'Developer'
+## 🚀 Qui suis-je ?
 
-    def __gt__(self, other) -> bool: return True
-```
+Je suis un **développeur passionné** par le code et la création d'outils innovants. J'adore apprendre de nouvelles technologies et repousser les limites de mes compétences.
 
-<img align="left" src="https://www.pikpng.com/pngl/b/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" width="100">
+- 💻 **Langages & Technologies** : Python, Java, JavaScript, C/C++/C#, HTML/CSS, SQL
+- 🔗 **Projet actuel** : [Oratis](https://www.oratis.fr)
+- 🎯 **Centres d'intérêt** : Développement web, applications
 
+## 🏆 Mes Stats
 
-```java
-class Kuco {
-    public Kuco() {
-        this.name = "Kuco";
-        this.link = "https://www.keyscapes.fr";
-        this.about = "Developer";
-    }
-    public String name;
-    public String link;
-    public String about;
-
-    public boolean compareTo(Kuco other) {
-        return true;
-    }
-}
-```
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align="center">
     <img src="https://profile-counter.glitch.me/KucoDEV/count.svg" />
 </div>
@@ -45,3 +23,35 @@ class Kuco {
     </a>
   </div>
 </p>
+
+## 🔧 Moi en quelque ligne de code
+
+```python
+class Kuco():
+    def __init__(self) -> None:
+        self.name = 'Kuco'
+        self.link = 'https://www.oratis.fr'
+        self.about = 'Developer'
+    
+    def __gt__(self, other) -> bool:
+        return True
+```
+
+```java
+class Kuco {
+    public Kuco() {
+        this.name = "Kuco";
+        this.link = "https://www.oratis.fr";
+        this.about = "Developer";
+    }
+    public String name;
+    public String link;
+    public String about;
+
+    public boolean compareTo(Kuco other) {
+        return true;
+    }
+}
+```
+
+<div align="center"><h3>📌 Toujours en quête de nouveaux projets ! 🚀</h3></div>
