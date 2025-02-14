@@ -8,7 +8,7 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
 
 🔹 **Langages & Technologies** : `Python`, `Java`, `JavaScript`, `C/C++/C#`, `HTML/CSS`, `SQL`
 
-🔹 **Projet actuel** : [OratisAI](https://github.com/KucoDEV/OratisAI), [MyBox](https://github.com/KucoDEV/MyBox)
+🔹 **Projet actuel** : [OratisAI](https://github.com/KucoDEV/OratisAI), [MyBox](https://github.com/KucoDEV/MyBox), [Portfolio](https://github.com/KucoDEV/kucodev.github.io/)
 
 🔹 **Centres d'intérêt** : Développement web, applications, intelligence artificielle
 
