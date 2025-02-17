@@ -6,7 +6,7 @@
 
 Je suis un **développeur passionné** par le code et la création d'outils innovants. J'adore apprendre de nouvelles technologies et repousser les limites de mes compétences.
 
-🔹 **Langages & Technologies** : `Python`, `Java`, `JavaScript`, `C/C++/C#`, `HTML/CSS`, `SQL`
+🔹 **Langages & Technologies** : `Python`, `Java`, `JavaScript`, `C/C++/C#`, `HTML/CSS`, `PSQL`
 
 🔹 **Projet actuel** : [OratisAI](https://github.com/KucoDEV/OratisAI), [MyBox](https://github.com/KucoDEV/MyBox), [Portfolio](https://github.com/KucoDEV/kucodev.github.io/)
 
