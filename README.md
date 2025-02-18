@@ -17,6 +17,12 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
 ## 📊 Mes Stats
 
 <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=KucoDEV&theme=onedark" />
+</div>
+
+<br>
+
+<div align="center">
     <img src="https://profile-counter.glitch.me/KucoDEV/count.svg" />
 </div>
 
