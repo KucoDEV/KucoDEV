@@ -12,6 +12,8 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
 
 🔹 **Centres d'intérêt** : Développement web, applications, intelligence artificielle
 
+🔹 Obtenez tous mes liens en **[cliquant ici](https://linktr.ee/matheo.pichotmoise)**
+
 ---
 
 ## 📊 Mes Stats
