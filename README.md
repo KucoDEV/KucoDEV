@@ -8,7 +8,7 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
 
 🔹 **Langages & Technologies** : `Python`, `Java`, `JavaScript`, `C/C++/C#`, `HTML/CSS`, `PSQL`
 
-🔹 **Projet actuel** : [OratisAI](https://github.com/KucoDEV/OratisAI), [MyBox](https://github.com/KucoDEV/MyBox), [Portfolio](https://github.com/KucoDEV/kucodev.github.io/)
+🔹 **Projet actuel** : [OratisAI](https://github.com/KucoDEV/OratisAI), [MyBox](https://github.com/KucoDEV/MyBox), [Portfolio](https://github.com/KucoDEV/kucodev.github.io/), [InOut](https://github.com/KucoDEV/InOut)
 
 🔹 **Centres d'intérêt** : Développement web, applications, intelligence artificielle
 
@@ -52,8 +52,8 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
   <a href="https://github.com/KucoDEV/BUT-Projets">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=BUT-Projets&theme=dark" />
   </a> 
-  <a href="https://github.com/KucoDEV/Chess-Stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=Chess-Stats&theme=dark" />
+  <a href="https://github.com/KucoDEV/InOut">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=InOut&theme=dark" />
   </a>  
   <a href="https://github.com/KucoDEV/kucodev.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=kucodev.github.io&theme=dark" />
