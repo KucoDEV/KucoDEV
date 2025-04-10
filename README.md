@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Mathéo PCIHOT-MOÏSE 
+# 👋 Salut, moi c'est Mathéo PICHOT-MOÏSE 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Bienvenue+sur+mon+profil!+%f0%9f%9a%80;D%c3%a9veloppeur+passionn%c3%a9+par+le+code!)](https://git.io/typing-svg)
 
