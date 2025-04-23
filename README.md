@@ -51,18 +51,15 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
   <a href="https://github.com/KucoDEV/OratisAI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=OratisAI&theme=dark" />
   </a> 
-  <a href="https://github.com/KucoDEV/BUT-Projets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=BUT-Projets&theme=dark" />
-  </a> 
-  <a href="https://github.com/KucoDEV/InOut">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=InOut&theme=dark" />
-  </a>  
   <a href="https://github.com/KucoDEV/kucodev.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=kucodev.github.io&theme=dark" />
   </a> 
   <a href="https://github.com/OratisDEV/oratisdev.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OratisDEV&repo=oratisdev.github.io&theme=dark" />
   </a> 
+  <a href="https://github.com/KucoDEV/InOut">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=InOut&theme=dark" />
+  </a>  
 </div>
 
 ---
