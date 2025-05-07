@@ -6,9 +6,9 @@
 
 Je suis un **développeur passionné** par le code et la création d'outils innovants. J'adore apprendre de nouvelles technologies et repousser les limites de mes compétences.
 
-🔹 **Langages & Technologies** : `HTML/CSS`, `React`, `JavaScript`, `Python`, `C/C++/C#`, `PSQL`
+🔹 **Langages & Technologies** : `HTML/CSS/JS`, `React`, `Python`, `C/C++/C#`, `PSQL`
 
-🔹 **Projet actuel** : [OratisAI](https://github.com/KucoDEV/OratisAI), [MyBox](https://github.com/KucoDEV/MyBox), [Portfolio](https://github.com/KucoDEV/kucodev.github.io/), [InOut](https://github.com/KucoDEV/InOut)
+🔹 **Projet actuel** : [StreamIt](https://github.com/KucoDEV/StreamIt), [OratisAI](https://github.com/KucoDEV/OratisAI), [MyBox](https://github.com/KucoDEV/MyBox), [Portfolio](https://github.com/KucoDEV/kucodev.github.io/)
 
 🔹 **Centres d'intérêt** : Développement web, applications, intelligence artificielle
 
@@ -45,6 +45,9 @@ Je suis un **développeur passionné** par le code et la création d'outils inno
 ## 🌟 Projets en avant
 
 <div align="center">
+  <a href="https://github.com/KucoDEV/StreamIt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=StreamIt&theme=dark" />
+  </a>
   <a href="https://github.com/KucoDEV/MyBox">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KucoDEV&repo=MyBox&theme=dark" />
   </a>
